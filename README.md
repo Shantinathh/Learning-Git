@@ -78,7 +78,7 @@ git branch
 git push origin main
 ```
 
-## 📚 Concepts Practiced
+## 📚 Concepts Practiced.
 
 * Navigating directories using the terminal
 * Checking files and hidden files
@@ -95,6 +95,6 @@ git push origin main
 
 The purpose of this project is to gain hands-on experience with **Git and GitHub** and understand the basic workflow used for version control and collaborative software development.
 
-## 🔗 Repository
+## 🔗 Repository.
 
 [GitHub – Learning-Git](https://github.com/Shantinathh/Learning-Git)
